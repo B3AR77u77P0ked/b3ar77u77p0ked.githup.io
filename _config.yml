@@ -1,0 +1,9 @@
+title: B3AR77u77P0ked - Ingress Resistance Agent
+description: The world is not what it seems & our destiny is at stake, join the Resistance.
+logo: /pics/bear.jpg
+repository: B3AR77u77P0ked/b3ar77u77p0ked.github.io
+url: "https://b3ar77u77p0ked.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+github_username: B3AR77u77P0ked  
